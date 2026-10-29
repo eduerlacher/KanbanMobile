@@ -44,7 +44,8 @@
             android:inputType="textEmailAddress"
             android:padding="10dp"
             android:layout_marginTop="4dp"
-            android:background="@drawable/bd_edit_text"/>
+            android:background="@drawable/bd_edit_text"
+            android:autofillHints="emailAddress"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -59,7 +60,8 @@
             android:hint="@string/digite_senha"
             android:padding="10dp"
             android:layout_marginTop="4dp"
-            android:background="@drawable/bd_edit_text"/>
+            android:background="@drawable/bd_edit_text"
+            android:autofillHints="password"/>
 
         <com.google.android.material.button.MaterialButton
             android:layout_width="match_parent"

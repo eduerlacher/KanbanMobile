@@ -9,4 +9,5 @@
     <string name="enviar">Enviar</string>
     <string name="login">Login</string>
     <string name="recuperar_conta">Recuperar Conta</string>
+    <string name="mensagem_recuperacao">Informe seu e-mail de cadastro para receber \n um link para alteração de senha.</string>
 </resources>
